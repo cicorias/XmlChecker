@@ -1,0 +1,17 @@
+{
+  "name": "xmlvalidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^2.0.2",
+    "libxmljs": "^0.15.0",
+    "libxslt": "^0.5.4",
+    "xslt4node": "^0.2.1"
+  }
+}
